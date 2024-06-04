@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-    QA Chatbot 서비스 구축을 위한 에이블스쿨 데이터 크롤러
+    AIVLE QA Chatbot 서비스 구축을 위한 크롤러
 </h1>
 
 🔥 KT AIVLE School 5기 미니프로젝트 7차 : RAG Chatbot 구축하기 <br>
